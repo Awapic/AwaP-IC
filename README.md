@@ -27,7 +27,7 @@ Whether the blocks which are partly inside and partly outside of the area of int
 - *Always include* - All the blocks that are at least partly within the area of interest will be included in the AwaP calculation (Figure b).
 - *Always exclude* - Only the blocks that are entirely within the area of interest will be included in the AwaP calculation (Figure c).
 
-![AwaP frame](./AwaP frame.png)
+![AwaP-frame](./AwaP-frame.png)
 
 Figure 2: Examples of the urban blocks included in the AwaP calculation (dark red) when using different settings for blocks intersecting the study area boundary (black line).
 
