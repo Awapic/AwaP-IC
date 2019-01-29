@@ -27,6 +27,10 @@ Whether the blocks which are partly inside and partly outside of the area of int
 - *Always include* - All the blocks that are at least partly within the area of interest will be included in the AwaP calculation (Figure b).
 - *Always exclude* - Only the blocks that are entirely within the area of interest will be included in the AwaP calculation (Figure c).
 
+![AwaP frame](./AwaP frame.png)
+
+Figure 2: Examples of the urban blocks included in the AwaP calculation (dark red) when using different settings for blocks intersecting the study area boundary (black line).
+
 # IC tool
 Interface catchment (IC) is a measure of the total length of public-private interfaces within a given walking distance (Pafka and Dovey 2017). The difference between IC and other catchment metrics is that it also accounts for the street width. IC looks at which edges of urban blocks may be accessed from a given starting point within a maximum walking distance. The assumption here is that a person is able to walk through any open space that is not occupied by urban blocks.
 
