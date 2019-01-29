@@ -23,9 +23,9 @@ Figure 1: AwaP plugin interface
 
 ## Blocks intersecting the boundary
 Whether the blocks which are partly inside and partly outside of the area of interest should be considered in this calculation, would depend on the specifics of each research. The tool provides three options:
-- *Include if at least some percentage of the block area is inside* - Only the blocks for which more than a specified percentage of their area is inside the area of interest will be included in the AwaP calculation, others will be disregarded (Figure a). The default value is 50%.
-- *Always include* - All the blocks that are at least partly within the area of interest will be included in the AwaP calculation (Figure b).
-- *Always exclude* - Only the blocks that are entirely within the area of interest will be included in the AwaP calculation (Figure c).
+- *Include if at least some percentage of the block area is inside* - Only the blocks for which more than a specified percentage of their area is inside the area of interest will be included in the AwaP calculation, others will be disregarded (Figure 2a). The default value is 50%.
+- *Always include* - All the blocks that are at least partly within the area of interest will be included in the AwaP calculation (Figure 2b).
+- *Always exclude* - Only the blocks that are entirely within the area of interest will be included in the AwaP calculation (Figure 2c).
 
 ![AwaP-frame](./AwaP-frame.png)
 
