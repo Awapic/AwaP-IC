@@ -50,4 +50,4 @@ The IC tool requires the following parameters to be set (Figure 3):
 Figure 3: IC plugin intefrace
 
 #### Reference:
-Pafka E and Dovey K. (2017) Permeability and Interface Catchment: Measuring and Mapping Walkable Access. Journal of Urbanism 10(2): 150-162.
+Pafka E & Dovey K. (2017) [Permeability and Interface Catchment: Measuring and Mapping Walkable Access](https://www.researchgate.net/publication/306087166_Permeability_and_interface_catchment_measuring_and_mapping_walkable_access). Journal of Urbanism 10(2): 150-162.
