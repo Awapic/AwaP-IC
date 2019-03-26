@@ -1,3 +1,5 @@
+This page is no longer in use: please go to the separate AwaP or IC plugin page.
+
 # AwaP-IC
 AwaP-IC is a QGIS tool that calculates the Area-weighted average Perimeter (AwaP) and Interface Catchment (IC), two measures developed by Pafka & Dovey (2017), that combined, capture the capacities of urban morphologies to enable and attract pedestrian movement. 
 
